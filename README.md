@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # World Museum
 
 **World Museum** is an immersive, high-performance web experience that chronicles 4.54 billion years of Earth's planetary and biological history, seamlessly culminating in a contemporary 2026 World Atlas.
@@ -431,4 +430,3 @@ Recommended checks before release:
 ## Project status
 
 The provided TSX is a feature-rich front-end component with an embedded dataset and live Wikipedia image requests. This README describes the implementation visible in that file. Setup, production readiness, image attribution, scientific sourcing, accessibility, and build/test coverage should be verified in the surrounding project before deployment.
->>>>>>> 400a31e5854066c1c363bc78670e922a2c4b9c96
