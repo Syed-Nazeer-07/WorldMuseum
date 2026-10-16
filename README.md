@@ -9,8 +9,11 @@ The project combines an editorial museum interface, chronological exhibit naviga
 > **Project status:** World Museum is an interactive front-end project. Build and test commands should be run against the current checkout, and scientific claims, image licenses, accessibility, and real-world destination information should be reviewed before production use.
 
 <p align="center">
+  <a href="https://worldmuseum.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20World%20Museum-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo">
+  </a>
   <a href="https://github.com/Syed-Nazeer-07/WorldMuseum">
-    <img src="https://img.shields.io/badge/GitHub-World%20Museum-181717?style=for-the-badge&logo=github" alt="GitHub repository">
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github" alt="GitHub repository">
   </a>
   <img src="https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -23,6 +26,7 @@ The project combines an editorial museum interface, chronological exhibit naviga
 
 ## Contents
 
+- [Live demo](#live-demo)
 - [Overview](#overview)
 - [Key capabilities](#key-capabilities)
 - [Explore the collection](#explore-the-collection)
@@ -41,6 +45,12 @@ The project combines an editorial museum interface, chronological exhibit naviga
 - [Contributing](#contributing)
 
 ---
+
+## Live demo
+
+**Explore World Museum online:** [worldmuseum.vercel.app](https://worldmuseum.vercel.app/)
+
+The live deployment lets visitors experience the museum directly in a browser without installing the project locally. The source code and development instructions are available in the [GitHub repository](https://github.com/Syed-Nazeer-07/WorldMuseum).
 
 ## Overview
 
@@ -481,11 +491,12 @@ Never commit `.env` files, credentials, private assets, or other secrets.
 
 ## Repository
 
-**GitHub:** [Syed-Nazeer-07/WorldMuseum](https://github.com/Syed-Nazeer-07/WorldMuseum)
+**Live website:** [worldmuseum.vercel.app](https://worldmuseum.vercel.app/)  
+**Source code:** [Syed-Nazeer-07/WorldMuseum](https://github.com/Syed-Nazeer-07/WorldMuseum)
 
 ---
 
 <p align="center">
-  <strong>World Museum</strong><br>
+  <strong><a href="https://worldmuseum.vercel.app/">World Museum — Live Demo</a></strong><br>
   <em>Explore Earth's past. Discover the world we share.</em>
 </p>
