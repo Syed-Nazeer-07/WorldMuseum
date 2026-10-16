@@ -1,6 +1,6 @@
 # World Museum 🌍⏳
 
-**TERRA // 4.5B — The Interactive Museum of Earth & World Atlas**
+**The Interactive Museum of Earth & World Atlas**
 
 World Museum is a full-screen, editorial-style React experience exploring Earth's deep history, the evolution of life, human civilizations, and modern space exploration. A separate 2026 World Atlas collection adds regional destination guides, landmarks, cuisine, cultural context, and sample itineraries.
 
