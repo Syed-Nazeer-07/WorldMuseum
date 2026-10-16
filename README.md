@@ -6,8 +6,7 @@ World Museum is a full-screen, editorial-style React experience exploring Earth'
 
 The interface takes inspiration from contemporary product-museum design: a restrained palette, serif editorial headlines, a three-card cover-flow stage, adaptive exhibit colors, glass-like specimen plaques, a precision ruler, and compact archive-story panels.
 
-> **Current source:** `terra_4_5b_museum (2).tsx`  
-> The uploaded TSX contains both the React component and the dataset inline. It is a single component file, not a complete project repository; package manifests and build configuration are not included.
+
 
 ## Contents
 
