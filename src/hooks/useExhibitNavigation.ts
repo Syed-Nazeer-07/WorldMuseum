@@ -48,21 +48,36 @@ export function useExhibitNavigation({
   const prev2Milestone = activeIndex > 1 ? allExhibits[activeIndex - 2] : null;
   const next2Milestone = activeIndex < totalExhibits - 2 ? allExhibits[activeIndex + 2] : null;
 
-  // Preload active, previous (-1, -2), and next (+1, +2) 1600px Retina exhibit photos
+  // Preload active, previous (-1, -2), and next (+1, +2) high-resolution exhibit photos
   useEffect(() => {
     const controller = new AbortController();
-    const toPrefetch = [
+    const immediatePrefetch = [
       ...(currentMilestone?.subExhibits?.map((v) => v.articleTitle) || []),
       ...(prevMilestone?.subExhibits?.map((v) => v.articleTitle) || []),
-      ...(nextMilestone?.subExhibits?.map((v) => v.articleTitle) || []),
+      ...(nextMilestone?.subExhibits?.map((v) => v.articleTitle) || [])
+    ].filter(Boolean);
+
+    immediatePrefetch.forEach((title) => {
+      fetchWikiVisual(title, controller.signal);
+    });
+
+    const lookaheadPrefetch = [
       ...(prev2Milestone?.subExhibits?.map((v) => v.articleTitle) || []),
       ...(next2Milestone?.subExhibits?.map((v) => v.articleTitle) || [])
     ].filter(Boolean);
 
-    toPrefetch.forEach((title) => {
-      fetchWikiVisual(title, controller.signal);
-    });
-    return () => controller.abort();
+    const timer = window.setTimeout(() => {
+      if (!controller.signal.aborted) {
+        lookaheadPrefetch.forEach((title) => {
+          fetchWikiVisual(title, controller.signal);
+        });
+      }
+    }, 350);
+
+    return () => {
+      window.clearTimeout(timer);
+      controller.abort();
+    };
   }, [currentMilestone, prevMilestone, nextMilestone, prev2Milestone, next2Milestone]);
 
   // Smoothly center active node in bottom ruler

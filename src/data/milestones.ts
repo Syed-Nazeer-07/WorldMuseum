@@ -71,7 +71,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "protoplanetary-disk",
         "label": "Planetary State",
-        "articleTitle": "Protoplanetary disk",
+        "articleTitle": "Solar nebula",
         "fallbackType": "disk",
         "caption": "A young Sun glows inside a flattened disk of gas, dust and growing planetesimals.",
         "alt": "A young Sun glows inside a flattened disk of gas, dust and growing planetesimals.",
@@ -187,7 +187,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "ancient-zircons-zircon-time-capsule",
         "label": "Zircon Time Capsule",
-        "articleTitle": "Zircon",
+        "articleTitle": "Crystal",
         "fallbackType": "zircon-crystal",
         "caption": "A translucent zircon crystal catches light like a mineral archive.",
         "alt": "A translucent zircon crystal catches light like a mineral archive.",
@@ -205,7 +205,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "ancient-zircons-liquid-water-clues",
         "label": "Liquid Water Clues",
-        "articleTitle": "Hadean",
+        "articleTitle": "Fumarole",
         "fallbackType": "hadean-water",
         "caption": "Water vapour condenses over a rugged early-Earth horizon.",
         "alt": "Water vapour condenses over a rugged early-Earth horizon.",
@@ -417,7 +417,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "microbial-worlds-stromatolite",
         "label": "Stromatolite",
-        "articleTitle": "Shark Bay",
+        "articleTitle": "Hamelin Pool Marine Nature Reserve",
         "fallbackType": "stromatolite",
         "caption": "A cutaway of finely layered domes built by microbial mats.",
         "alt": "A cutaway of finely layered domes built by microbial mats.",
@@ -647,7 +647,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "eukaryotic-cells-cell-architecture",
         "label": "Cell Architecture",
-        "articleTitle": "Eukaryote",
+        "articleTitle": "Endoplasmic reticulum",
         "fallbackType": "eukaryotic-cell",
         "caption": "A detailed cutaway cell with a nucleus and folded internal membranes.",
         "alt": "A detailed cutaway cell with a nucleus and folded internal membranes.",
@@ -656,7 +656,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "eukaryotic-cells-mitochondrial-partnership",
         "label": "Mitochondrial Partnership",
-        "articleTitle": "Mitochondrion",
+        "articleTitle": "Endosymbiont",
         "fallbackType": "mitochondrion",
         "caption": "A mitochondrion with folded inner membranes glows inside a host cell.",
         "alt": "A mitochondrion with folded inner membranes glows inside a host cell.",
@@ -780,7 +780,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "snowball-earth-climate-feedback",
         "label": "Climate Feedback",
-        "articleTitle": "Ice–albedo feedback",
+        "articleTitle": "Sea ice",
         "fallbackType": "ice-albedo",
         "caption": "Sunlight reflects from ice into a cold, cloud-streaked sky.",
         "alt": "Sunlight reflects from ice into a cold, cloud-streaked sky.",
@@ -1000,7 +1000,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "trilobite",
         "label": "Fossil Armor",
-        "articleTitle": "Trilobite",
+        "articleTitle": "Calymene",
         "fallbackType": "trilobite",
         "caption": "An articulated trilobite fossil rests on a warm limestone slab.",
         "alt": "An articulated trilobite fossil rests on a warm limestone slab.",
@@ -1124,7 +1124,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "plants-on-land-fungal-partnerships",
         "label": "Fungal Partnerships",
-        "articleTitle": "Mycorrhiza",
+        "articleTitle": "Arbuscular mycorrhiza",
         "fallbackType": "mycorrhiza",
         "caption": "Fine fungal filaments connect plant-like tissues with mineral-rich soil.",
         "alt": "Fine fungal filaments connect plant-like tissues with mineral-rich soil.",
@@ -1230,7 +1230,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "fins-to-limbs-lobe-finned-fish",
         "label": "Lobe-Finned Fish",
-        "articleTitle": "Sarcopterygii",
+        "articleTitle": "Coelacanth",
         "fallbackType": "lobe-finned-fish",
         "caption": "A lobe-finned fish shows fleshy paired fins supported by internal bones.",
         "alt": "A lobe-finned fish shows fleshy paired fins supported by internal bones.",
@@ -1239,7 +1239,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "fins-to-limbs-early-tetrapod-trackway",
         "label": "Early Tetrapod Trackway",
-        "articleTitle": "Acanthostega",
+        "articleTitle": "Trace fossil",
         "fallbackType": "tetrapod-tracks",
         "caption": "Shallow-water tracks cross rippled sediment on an ancient shore.",
         "alt": "Shallow-water tracks cross rippled sediment on an ancient shore.",
@@ -1354,7 +1354,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "carboniferous",
         "label": "Coal Forest",
-        "articleTitle": "Carboniferous",
+        "articleTitle": "Coal forest",
         "fallbackType": "coal-forest",
         "caption": "A dense, humid forest of clubmoss trees, ferns and still water.",
         "alt": "A dense, humid forest of clubmoss trees, ferns and still water.",
@@ -1460,7 +1460,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "siberian-traps",
         "label": "Siberian Traps",
-        "articleTitle": "Siberian Traps",
+        "articleTitle": "Putorana Plateau",
         "fallbackType": "flood-basalt",
         "caption": "Vast stacked basalt flows stretch across a volcanic plateau.",
         "alt": "Vast stacked basalt flows stretch across a volcanic plateau.",
@@ -1584,7 +1584,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "triassic-dawn-post-extinction-recovery",
         "label": "Post-Extinction Recovery",
-        "articleTitle": "Triassic",
+        "articleTitle": "Petrified Forest National Park",
         "fallbackType": "triassic-recovery",
         "caption": "A recovering landscape hosts mixed reptile, plant and freshwater communities.",
         "alt": "A recovering landscape hosts mixed reptile, plant and freshwater communities.",
@@ -1814,7 +1814,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "flowering-plant-revolution-pollination-networks",
         "label": "Pollination Networks",
-        "articleTitle": "Pollination",
+        "articleTitle": "Pollinator",
         "fallbackType": "pollination",
         "caption": "An insect visits a small flower among Cretaceous leaves.",
         "alt": "An insect visits a small flower among Cretaceous leaves.",
@@ -1920,7 +1920,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "chicxulub-crater",
         "label": "Impact Scar",
-        "articleTitle": "Chicxulub crater",
+        "articleTitle": "Cretaceous–Paleogene boundary",
         "fallbackType": "impact-crater",
         "caption": "A conceptual cutaway of the buried Chicxulub impact structure beneath the Yucatán region.",
         "alt": "A conceptual cutaway of the buried Chicxulub impact structure beneath the Yucatán region.",
@@ -2026,7 +2026,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "petm-greenhouse-carbon-pulse",
         "label": "Carbon Pulse",
-        "articleTitle": "Paleocene–Eocene Thermal Maximum",
+        "articleTitle": "Messel pit",
         "fallbackType": "petm-carbon-pulse",
         "caption": "A warm ocean and atmospheric bands visualize a rapid carbon-cycle perturbation.",
         "alt": "A warm ocean and atmospheric bands visualize a rapid carbon-cycle perturbation.",
@@ -2035,7 +2035,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "petm-greenhouse-changing-ocean",
         "label": "Changing Ocean",
-        "articleTitle": "Foraminifera",
+        "articleTitle": "Radiolaria",
         "fallbackType": "ancient-ocean-acidification",
         "caption": "Microscopic marine shells appear against a chemically altered ocean profile.",
         "alt": "Microscopic marine shells appear against a chemically altered ocean profile.",
@@ -2159,7 +2159,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "hominin-branch-mosaic-habitat",
         "label": "Mosaic Habitat",
-        "articleTitle": "Ardipithecus",
+        "articleTitle": "Savanna",
         "fallbackType": "late-miocene-habitat",
         "caption": "A woodland and open-ground ecotone under a seasonal sky.",
         "alt": "A woodland and open-ground ecotone under a seasonal sky.",
@@ -2379,7 +2379,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "erectus-dispersals-acheulean-handaxe",
         "label": "Acheulean Handaxe",
-        "articleTitle": "Hand axe",
+        "articleTitle": "Lower Paleolithic",
         "fallbackType": "acheulean-handaxe",
         "caption": "A bifacial stone handaxe rests on a neutral specimen plinth.",
         "alt": "A bifacial stone handaxe rests on a neutral specimen plinth.",
@@ -2388,7 +2388,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "erectus-dispersals-early-dispersal-routes",
         "label": "Early Dispersal Routes",
-        "articleTitle": "Turkana Boy",
+        "articleTitle": "Dmanisi hominins",
         "fallbackType": "early-human-dispersal",
         "caption": "A map-like terrain relief shows broad, uncertain pathways across Africa and Eurasia.",
         "alt": "A map-like terrain relief shows broad, uncertain pathways across Africa and Eurasia.",
@@ -2485,7 +2485,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "early-homo-sapiens",
         "label": "Early Homo sapiens",
-        "articleTitle": "Homo sapiens",
+        "articleTitle": "Homo sapiens idaltu",
         "fallbackType": "homo-sapiens",
         "caption": "A scientifically grounded reconstruction of early Homo sapiens based on fossil anatomy.",
         "alt": "A scientifically grounded reconstruction of early Homo sapiens based on fossil anatomy.",
@@ -2503,7 +2503,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "jebel-irhoud",
         "label": "Jebel Irhoud Fossils",
-        "articleTitle": "Jebel Irhoud",
+        "articleTitle": "Early modern human",
         "fallbackType": "fossil",
         "caption": "A fossil skull and excavation layer evoke early Homo sapiens discoveries in Morocco.",
         "alt": "A fossil skull and excavation layer evoke early Homo sapiens discoveries in Morocco.",
@@ -2617,7 +2617,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "symbols-networks-exchange-networks",
         "label": "Exchange Networks",
-        "articleTitle": "Lascaux",
+        "articleTitle": "Chauvet Cave",
         "fallbackType": "stone-age-network",
         "caption": "Stone raw materials are linked across a stylized terrain map.",
         "alt": "Stone raw materials are linked across a stylized terrain map.",
@@ -2713,7 +2713,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "holocene-dawn-holocene-boundary",
         "label": "Holocene Boundary",
-        "articleTitle": "Holocene",
+        "articleTitle": "U-shaped valley",
         "fallbackType": "holocene-boundary",
         "caption": "A retreating glacier reveals a greener valley and newly exposed shorelines.",
         "alt": "A retreating glacier reveals a greener valley and newly exposed shorelines.",
@@ -2722,7 +2722,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "holocene-dawn-early-cultivation",
         "label": "Early Cultivation",
-        "articleTitle": "Neolithic Revolution",
+        "articleTitle": "Quern-stone",
         "fallbackType": "early-cultivation",
         "caption": "Wild grains, grinding stones and early cultivated plots sit beside a settlement.",
         "alt": "Wild grains, grinding stones and early cultivated plots sit beside a settlement.",
@@ -2846,7 +2846,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "gobekli-tepe-gathering-landscape",
         "label": "Gathering Landscape",
-        "articleTitle": "Fertile Crescent",
+        "articleTitle": "Harran",
         "fallbackType": "neolithic-gathering",
         "caption": "People gather in an open enclosure amid the Anatolian uplands.",
         "alt": "People gather in an open enclosure amid the Anatolian uplands.",
@@ -2943,7 +2943,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "uruk",
         "label": "Uruk & Urban Life",
-        "articleTitle": "Uruk",
+        "articleTitle": "Eanna",
         "fallbackType": "ancient-city",
         "caption": "A layered reconstruction of mudbrick architecture, courtyards and crowded streets in ancient Uruk.",
         "alt": "A layered reconstruction of mudbrick architecture, courtyards and crowded streets in ancient Uruk.",
@@ -3419,7 +3419,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "ideas-and-empires-early-chinese-thought",
         "label": "Early Chinese Thought",
-        "articleTitle": "Confucius",
+        "articleTitle": "Bamboo and wooden slips",
         "fallbackType": "confucian-thought",
         "caption": "A scholar's desk with bamboo slips evokes early Chinese textual culture.",
         "alt": "A scholar's desk with bamboo slips evokes early Chinese textual culture.",
@@ -3516,7 +3516,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "silk-roads-caravan-cities",
         "label": "Caravan Cities",
-        "articleTitle": "Silk Road",
+        "articleTitle": "Caravanserai",
         "fallbackType": "silk-road-caravan",
         "caption": "A caravan approaches an oasis city and its market gates.",
         "alt": "A caravan approaches an oasis city and its market gates.",
@@ -3525,7 +3525,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "silk-roads-maritime-corridors",
         "label": "Maritime Corridors",
-        "articleTitle": "Maritime Silk Road",
+        "articleTitle": "Dhow",
         "fallbackType": "indian-ocean-trade",
         "caption": "Sailing vessels move between monsoon-season ports.",
         "alt": "Sailing vessels move between monsoon-season ports.",
@@ -3746,7 +3746,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "print-revolution-movable-metal-type",
         "label": "Movable Metal Type",
-        "articleTitle": "Printing press",
+        "articleTitle": "Movable type",
         "fallbackType": "printing-press",
         "caption": "Metal type blocks are aligned in a composing frame beside ink and paper.",
         "alt": "Metal type blocks are aligned in a composing frame beside ink and paper.",
@@ -3878,7 +3878,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "spinning-jenny",
         "label": "Mechanized Textile",
-        "articleTitle": "Spinning jenny",
+        "articleTitle": "Industrial Revolution",
         "fallbackType": "spinning-jenny",
         "caption": "A wooden spinning jenny holds multiple spindles in a workshop interior.",
         "alt": "A wooden spinning jenny holds multiple spindles in a workshop interior.",
@@ -4097,7 +4097,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "sputnik-launch-vehicle",
         "label": "Launch Vehicle",
-        "articleTitle": "Soyuz (rocket family)",
+        "articleTitle": "Vostok (rocket family)",
         "fallbackType": "r7-rocket",
         "caption": "A long rocket rises from a launch pad in the early Space Age.",
         "alt": "A long rocket rises from a launch pad in the early Space Age.",
@@ -4106,7 +4106,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "sputnik-orbital-signal",
         "label": "Orbital Signal",
-        "articleTitle": "Satellite",
+        "articleTitle": "Ground station",
         "fallbackType": "orbital-signal",
         "caption": "A ground station tracks a satellite as it crosses a curved horizon.",
         "alt": "A ground station tracks a satellite as it crosses a curved horizon.",
@@ -4202,7 +4202,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "gagarin-vostok-1-capsule",
         "label": "Vostok 1 Capsule",
-        "articleTitle": "Vostok 1",
+        "articleTitle": "Vostok (spacecraft)",
         "fallbackType": "vostok-capsule",
         "caption": "A spherical re-entry capsule is shown against a blue atmospheric rim.",
         "alt": "A spherical re-entry capsule is shown against a blue atmospheric rim.",
@@ -4220,7 +4220,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "gagarin-earth-from-orbit",
         "label": "Earth from Orbit",
-        "articleTitle": "Vostok (spacecraft)",
+        "articleTitle": "Atmosphere of Earth",
         "fallbackType": "earth-from-orbit",
         "caption": "Cloud systems and the curved blue limb of Earth fill a view from orbit.",
         "alt": "Cloud systems and the curved blue limb of Earth fill a view from orbit.",
@@ -4553,7 +4553,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "pale-blue-dot-voyager-1",
         "label": "Voyager 1",
-        "articleTitle": "Voyager 1",
+        "articleTitle": "Voyager program",
         "fallbackType": "voyager-1",
         "caption": "A Voyager spacecraft silhouette carries its high-gain antenna and science instruments.",
         "alt": "A Voyager spacecraft silhouette carries its high-gain antenna and science instruments.",
@@ -4667,7 +4667,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "first-sunlike-exoplanet-radial-velocity",
         "label": "Radial Velocity",
-        "articleTitle": "Doppler spectroscopy",
+        "articleTitle": "Astronomical spectroscopy",
         "fallbackType": "radial-velocity",
         "caption": "A spectral line shifts back and forth in a stylized stellar spectrum.",
         "alt": "A spectral line shifts back and forth in a stylized stellar spectrum.",
@@ -4676,7 +4676,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "first-sunlike-exoplanet-worlds-beyond",
         "label": "Worlds Beyond",
-        "articleTitle": "Exoplanet",
+        "articleTitle": "Planetary system",
         "fallbackType": "exoplanet",
         "caption": "A distant planetary system appears as layered points of light and orbit paths.",
         "alt": "A distant planetary system appears as layered points of light and orbit paths.",
@@ -4772,7 +4772,7 @@ export const timelineMilestones: ExhibitMilestone[] = [
       {
         "id": "james-webb-launch-segmented-mirror",
         "label": "Segmented Mirror",
-        "articleTitle": "James Webb Space Telescope",
+        "articleTitle": "Primary mirror",
         "fallbackType": "jwst-mirror",
         "caption": "Webb's gold-coated hexagonal mirror segments form a broad collecting surface.",
         "alt": "Webb's gold-coated hexagonal mirror segments form a broad collecting surface.",

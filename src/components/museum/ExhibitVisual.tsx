@@ -41,7 +41,6 @@ export const ExhibitVisual: React.FC<ExhibitVisualProps> = ({
             onLoad={handleImageLoad}
             onError={handleImageError}
             style={{
-              imageRendering: '-webkit-optimize-contrast',
               objectFit: 'cover'
             }}
             className={`relative z-10 w-full h-full object-cover transition-opacity duration-300 ${
